@@ -1,6 +1,6 @@
 <p ><h1 align="center" style="color:#001d3d; background: #fe921f;line-height: 90px;margin-top:40px" ><i><b>Hi 👋,</i></b> I'm BOURHIL Zakaria </h1></p>
 <p align="center">  
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" style="margin-top: -16px;max-width: 100%;"><br>
+<img src="" style="margin-top: -16px;max-width: 100%;"><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=d8315b&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;I'm+BOURHIL+Zakaria;A+Software+Engineer+student+at+ENSIAS;I+hope+you+enjoy+my+profile..." alt="Typing SVG" />
 </p>
 
@@ -9,7 +9,7 @@
 <p>
 
 
-- 🔭 I’m currently working on `software Engineer and Java Enthusiast` at <a href="[http://www.ensias.um5.ac.ma"](http://ensias.um5.ac.ma/) target="_blank">ENSIAS</a>.
+- 🔭 I’m currently working on `software Engineer and Java Enthusiast` at <a href="http://ensias.um5.ac.ma/" target="_blank">ENSIAS</a>.
 
 - 🌱 I’m currently learning **everything about Software Engineering (JAVA developement, Web Frameworks, Mobile development),**
 
