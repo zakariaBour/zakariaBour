@@ -50,9 +50,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaBour&show_icons=true&locale=en&layout=compact" alt="zakariaBour" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimatq&show_icons=true&locale=en" alt="zakariaBour" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariaBour&show_icons=true&locale=en" alt="zakariaBour" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimatq&" alt="zakariaBour" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaBour&" alt="zakariaBour" /></p>
 
 
 
